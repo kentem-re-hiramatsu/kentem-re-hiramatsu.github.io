@@ -1,0 +1,201 @@
+番号	枝番	分類	Title	URL	予測ポイント	やる/やらない	ポイント	予定時間	実績時間	イテレーション	Status	Assignees
+		(FE)	アイコン依頼・確認	https://github.com/ks-kentem/cloud-pm/issues/674			0.5	3.5			未対応	
+		(FE)	マニュアル依頼・確認・適用	https://github.com/ks-kentem/cloud-pm/issues/675			1	7			未対応	
+		(FE)	リリース情報	https://github.com/ks-kentem/cloud-pm/issues/676			0.5	3.5			未対応	
+		(FE)	KentemDB	https://github.com/ks-kentem/cloud-pm/issues/677			0.5	3.5			未対応	
+		(FE)	テストすり合わせ	https://github.com/ks-kentem/cloud-pm/issues/678			0.5	3.5			未対応	
+		(BE)	評価版環境作成	https://github.com/ks-kentem/cloud-pm/issues/680			2	14			未対応	
+		(BE)	リリース準備	https://github.com/ks-kentem/cloud-pm/issues/681			2	14			未対応	
+		(FE)	FE 不具合 (実装 x 20%)	https://github.com/ks-kentem/cloud-pm/issues/1720			13	91			未対応	kentem-re-hiramatsu
+		(BE)	BE 不具合 (実装 x 20%)	https://github.com/ks-kentem/cloud-pm/issues/1721			4	28			処理中	kentem-na-hasegawa
+		(FE)	【マスター】安全指示事項のグリッドを実装	https://github.com/ks-kentem/cloud-pm/issues/486			0.5	3.5	5	5	プルリク中	kentem-to-okemoto
+		(FE)	【マスター】編集コマンドの実装	https://github.com/ks-kentem/cloud-pm/issues/489			1	7	3.5	5	プルリク中	kentem-to-okemoto
+		(FE)	【マスター】データ取得（API接続）	https://github.com/ks-kentem/cloud-pm/issues/490			0.5	3.5	0.5	5	プルリク中	kentem-to-okemoto
+		(FE)	【マスター】データ保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/491			0.5	3.5	3.5	5	プルリク中	kentem-to-okemoto
+		(FE)	【工事内容】安全指示事項のグリッドを実装	https://github.com/ks-kentem/cloud-pm/issues/492			0.5	3.5	2	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【工事内容】キーワード検索	https://github.com/ks-kentem/cloud-pm/issues/1463			0.5	3.5	1	5	プルリク中	kentem-re-hiramatsu
+		(FE)	【工事内容】編集コマンドの実装	https://github.com/ks-kentem/cloud-pm/issues/493			0.5	3.5	1	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【工事内容】マスター取込みの実装	https://github.com/ks-kentem/cloud-pm/issues/494			1	7	1	5	プルリク中	kentem-re-hiramatsu
+		(FE)	【工事内容】データ取得（API接続）	https://github.com/ks-kentem/cloud-pm/issues/495			0.5	3.5	1	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【工事内容】データ保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/496			0.5	3.5	1	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【日報】安全指示事項の列を追加（閲覧・編集）	https://github.com/ks-kentem/cloud-pm/issues/497			0.5	3.5	0.5	3	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【日報】追加ダイアログ作成	https://github.com/ks-kentem/cloud-pm/issues/502			0.5	3.5	2	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【日報】データ取得（API接続）	https://github.com/ks-kentem/cloud-pm/issues/503			0.5	3.5	6	5	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【日報】データ保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/504			0.5	3.5	5	5	未対応	kentem-re-hiramatsu
+		(FE)	【マスター】区分のグリッドを実装	https://github.com/ks-kentem/cloud-pm/issues/511			0.5	3.5	2.5	3	完了	kentem-to-okemoto
+		(FE)	【マスター】区分の編集コマンドの実装	https://github.com/ks-kentem/cloud-pm/issues/513			0.5	3.5	4.5	3	完了	kentem-to-okemoto
+		(FE)	【マスター】点検項目のグリッドを実装	https://github.com/ks-kentem/cloud-pm/issues/512			1	7	1	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【マスター】点検項目の編集コマンドの実装	https://github.com/ks-kentem/cloud-pm/issues/514			1	7	5	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【マスター】データ取得（API接続）	https://github.com/ks-kentem/cloud-pm/issues/515			0.5	3.5	1.5	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【マスター】データ保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/516			0.5	3.5	2.5	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】区分のグリッドを実装	https://github.com/ks-kentem/cloud-pm/issues/517			0.5	3.5	2.5	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】区分の編集コマンドの実装	https://github.com/ks-kentem/cloud-pm/issues/519			0.5	3.5	1	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】区分のマスター取込みの実装	https://github.com/ks-kentem/cloud-pm/issues/521			1	7	4.5	5	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】点検項目のグリッドを実装	https://github.com/ks-kentem/cloud-pm/issues/518			0.5	3.5	1	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】点検項目編集コマンドの実装	https://github.com/ks-kentem/cloud-pm/issues/520			0.5	3.5	1.5	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】点検項目のマスター取込みの実装	https://github.com/ks-kentem/cloud-pm/issues/522			1	7	5	5	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】データ取得（API接続）	https://github.com/ks-kentem/cloud-pm/issues/523			0.5	3.5	0.5	4	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】データ保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/524			0.5	3.5	3.5	5	処理済み・Close	kentem-to-okemoto
+		(FE)	【日報】点検記録表のグリッドを実装	https://github.com/ks-kentem/cloud-pm/issues/525			2	14	3.5	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【日報】一括チェックダイアログの実装	https://github.com/ks-kentem/cloud-pm/issues/526			0.5	3.5			破棄	
+		(FE)	【日報】一括チェックの処理を実装	https://github.com/ks-kentem/cloud-pm/issues/527			1.5	10.5			破棄	
+		(FE)	【日報】無効化時にグレーアウトする実装	https://github.com/ks-kentem/cloud-pm/issues/528			1	7	1	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【日報】データの取得（API接続）	https://github.com/ks-kentem/cloud-pm/issues/529			0.5	3.5	3	5	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【日報】データの保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/530			0.5	3.5	2	5	処理済み・Close	kentem-re-hiramatsu
+		(FE)	施工日のラベルを表示	https://github.com/ks-kentem/cloud-pm/issues/507			0.5	3.5	2	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	指示日を実装	https://github.com/ks-kentem/cloud-pm/issues/508			1	7	3	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【施工日・指示日】データの取得・保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/509			1	7	2	5	未対応	kentem-re-hiramatsu
+		(FE)	目標時間・無災害労働時間の入力欄を実装	https://github.com/ks-kentem/cloud-pm/issues/532			0.5	3.5	1.5	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	自動計算・入力のラジオボタン追加と入力制御	https://github.com/ks-kentem/cloud-pm/issues/533			0.5	3.5	0.5	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	カレンダーで手入力した日付のアイコンを変える	https://github.com/ks-kentem/cloud-pm/issues/534			0.5	3.5		5	未対応	kentem-re-hiramatsu
+		(FE)	自動計算の値を取得（API接続）	https://github.com/ks-kentem/cloud-pm/issues/535			0.5	3.5	3	5	プルリク中	kentem-re-hiramatsu
+		(FE)	【無災害労働時間】データの取得・保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/536			0.5	3.5	3	5	プルリク中	kentem-re-hiramatsu
+		(FE)	作業内容の列を追加	https://github.com/ks-kentem/cloud-pm/issues/538			0.5	3.5	0.5	3	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【作業内容】データの取得・保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/540			0.5	3.5	0.5	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	その他指示事項の列を追加	https://github.com/ks-kentem/cloud-pm/issues/542			0.5	3.5	0.5	3	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【その他指示事項】データの取得・保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/544			0.5	3.5	0.5	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	備考の列を追加	https://github.com/ks-kentem/cloud-pm/issues/546			0.5	3.5	0.5	3	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【備考】データの取得・保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/548			0.5	3.5	0.5	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	打合せ事項の入力欄を実装	https://github.com/ks-kentem/cloud-pm/issues/550			0.5	3.5	0.5	3	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【打合せ事項】データの取得・保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/551			0.5	3.5	0.5	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	安全巡視記録のグリッドを実装	https://github.com/ks-kentem/cloud-pm/issues/553			1	7	1.5	3	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【安全巡視記録】データの取得・保存	https://github.com/ks-kentem/cloud-pm/issues/554			0.5	3.5	1.5	4	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【マスター】安全指示事項、点検記録表	https://github.com/ks-kentem/cloud-pm/issues/556			0.5	3.5		5	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】安全指示事項、点検記録表	https://github.com/ks-kentem/cloud-pm/issues/557			0.5	3.5	1	5	処理済み・Close	kentem-re-hiramatsu
+		(FE)	安全指示事項ダイアログ	https://github.com/ks-kentem/cloud-pm/issues/558			0.5	3.5		5	プルリク中	kentem-re-hiramatsu
+		(FE)	【日報】安全指示事項	https://github.com/ks-kentem/cloud-pm/issues/559			0.5	3.5	1	5	処理済み・Close	kentem-re-hiramatsu
+		(FE)	【マスター】安全指示事項、点検記録表	https://github.com/ks-kentem/cloud-pm/issues/562			0.5	3.5		5	処理済み・Close	kentem-to-okemoto
+		(FE)	【工事内容】安全指示事項、点検記録表	https://github.com/ks-kentem/cloud-pm/issues/563			0.5	3.5	1	5	処理済み・Close	kentem-re-hiramatsu
+		(FE)	日報の追加項目	https://github.com/ks-kentem/cloud-pm/issues/564			0.5	3.5	1	5	処理中	kentem-re-hiramatsu
+		(FE)	日報複写の処理を実装	https://github.com/ks-kentem/cloud-pm/issues/567			1	7		5	未対応	kentem-sh-kitazawa
+		(FE)	複写対象の項目を画面に追加	https://github.com/ks-kentem/cloud-pm/issues/566			0.5	3.5	2.5	5	処理済み・Close	kentem-sh-kitazawa
+		(FE)	表示設定ダイアログに工種名の設定を追加	https://github.com/ks-kentem/cloud-pm/issues/569			2	14	7.5	5	プルリク中	kentem-sh-kitazawa
+		(FE)	表示の切り替え処理の実装（API接続）	https://github.com/ks-kentem/cloud-pm/issues/570			1	7	3.5	5	プルリク中	kentem-sh-kitazawa
+		(FE)	日報プレビュー画面の作成	https://github.com/ks-kentem/cloud-pm/issues/572			0.5	3.5	6.5	5	処理済み・Close	kentem-to-okemoto
+		(FE)	A3タブの画面作成（API接続）	https://github.com/ks-kentem/cloud-pm/issues/573			1	0	0	5	プルリク中	kentem-ak-iwabuchi
+		(FE)	A4タブの画面作成（API接続）	https://github.com/ks-kentem/cloud-pm/issues/574			1	0	0	5	プルリク中	kentem-ak-iwabuchi
+		(FE)	Excel出力の実装（API接続）	https://github.com/ks-kentem/cloud-pm/issues/575			2	14	10.5	5	プルリク中	kentem-ak-iwabuchi
+		(FE)	日報詳細列を戻す	https://github.com/ks-kentem/cloud-pm/issues/1480			0.5	3.5	6	3	処理済み・Close	kentem-sh-kitazawa
+		(FE)	詳細列結合	https://github.com/ks-kentem/cloud-pm/issues/1481			0.5	3.5	3	3	処理済み・Close	kentem-sh-kitazawa
+		(FE)	工種タブ作成	https://github.com/ks-kentem/cloud-pm/issues/1482			0.5	3.5	11	4	処理済み・Close	kentem-sh-kitazawa
+		(FE)	タブの切り替え処理	https://github.com/ks-kentem/cloud-pm/issues/1483			1	7	15.5	4	処理済み・Close	kentem-sh-kitazawa
+		(FE)	工種名選択を複数選択に変更	https://github.com/ks-kentem/cloud-pm/issues/1484			0.5	3.5	2.5	5	処理済み・Close	kentem-sh-kitazawa
+		(FE)	工種名選択とタブの連動	https://github.com/ks-kentem/cloud-pm/issues/1485			1	7	4.5	5	処理中	kentem-sh-kitazawa
+		(FE)	工種名選択と工種名ドロップダウン連動	https://github.com/ks-kentem/cloud-pm/issues/1486			0.5	3.5	1	5	処理中	kentem-sh-kitazawa
+		(FE)	前、次の会社への処理修正	https://github.com/ks-kentem/cloud-pm/issues/1487			0.5	3.5	3	4	処理済み・Close	kentem-sh-kitazawa
+		(FE)	既存の入力欄をタブ内に移動	https://github.com/ks-kentem/cloud-pm/issues/1488			0.5	3.5	3	4	処理済み・Close	kentem-sh-kitazawa
+		(FE)	作業内容の入力欄を実装	https://github.com/ks-kentem/cloud-pm/issues/1489			0.5	3.5	1.5	4	処理済み・Close	kentem-sh-kitazawa
+		(FE)	安全指示事項の入力欄を実装	https://github.com/ks-kentem/cloud-pm/issues/1490			0.5	3.5	1	4	処理済み・Close	kentem-sh-kitazawa
+		(FE)	その他指示事項の入力欄を実装	https://github.com/ks-kentem/cloud-pm/issues/1491			0.5	3.5	1.5	4	処理済み・Close	kentem-sh-kitazawa
+		(FE)	備考の入力欄を実装	https://github.com/ks-kentem/cloud-pm/issues/1492			0.5	3.5	1.5	4	処理済み・Close	kentem-sh-kitazawa
+		(FE)	エラー関係	https://github.com/ks-kentem/cloud-pm/issues/1493			0.5	3.5		5	未対応	kentem-sh-kitazawa
+		(FE)	保存時のAPI修正	https://github.com/ks-kentem/cloud-pm/issues/1494			0.5	3.5		5	未対応	kentem-sh-kitazawa
+		(FE)	【日報】点検記録表のカードを実装	https://github.com/ks-kentem/cloud-pm/issues/1466			1	7	1.5	4	処理済み・Close	kentem-ka-hashimoto
+		(FE)	【日報】一括チェックの処理を実装	https://github.com/ks-kentem/cloud-pm/issues/1467			0.5	3.5			破棄	
+		(FE)	【日報】データの保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/1468			0.5	3.5	7.5	5	プルリク中	kentem-ka-hashimoto
+		(FE)	【日報】ルート画面に点検記録表、打ち合わせ事項、安全巡視記録ボタン表示	https://github.com/ks-kentem/cloud-pm/issues/1469			0.5	3.5	0.5	4	処理済み・Close	kentem-ka-hashimoto
+		(FE)	【日報】打合せ事項追加ダイアログ作成	https://github.com/ks-kentem/cloud-pm/issues/1470			0.5	3.5	1	4	処理済み・Close	kentem-ka-hashimoto
+		(FE)	【日報】打合せ事項追加処理(API接続)	https://github.com/ks-kentem/cloud-pm/issues/1471			0.5	3.5	2	5	処理済み・Close	kentem-ka-hashimoto
+		(FE)	【日報】安全巡視記録追加ダイアログ作成	https://github.com/ks-kentem/cloud-pm/issues/1472			1	7	1	4	処理済み・Close	kentem-ka-hashimoto
+		(FE)	【日報】安全巡視記録カード作成	https://github.com/ks-kentem/cloud-pm/issues/1473			0.5	3.5	2	4	処理済み・Close	kentem-ka-hashimoto
+		(FE)	【日報】安全巡視記録取得処理(API接続)	https://github.com/ks-kentem/cloud-pm/issues/1474			0.5	3.5	1.5	5	処理済み・Close	kentem-ka-hashimoto
+		(FE)	【日報】安全巡視記録編集処理(API接続)	https://github.com/ks-kentem/cloud-pm/issues/1475			0.5	3.5	1.5	5	処理済み・Close	kentem-ka-hashimoto
+		(FE)	日報入力追加画面に項目を追加（安全指示事項、作業内容、その他指示事項）	https://github.com/ks-kentem/cloud-pm/issues/1476			1	7	0.5	5	処理中	kentem-ka-hashimoto
+		(FE)	追加処理に項目を追加(API接続)	https://github.com/ks-kentem/cloud-pm/issues/1477			0.5	3.5		5	未対応	kentem-ka-hashimoto
+		(FE)	日報複写ダイアログに項目を追加	https://github.com/ks-kentem/cloud-pm/issues/1478			0.5	3.5	2	5	処理済み・Close	kentem-sh-kitazawa
+		(FE)	点検記録表GetApi接続	https://github.com/ks-kentem/cloud-pm/issues/1610			0.5	3.5	3.5	5	プルリク中	kentem-ka-hashimoto
+		(BE)	テーブル・モデル類を追加	https://github.com/ks-kentem/cloud-pm/issues/627			0.5	3.5	0.5	2	処理済み・Close	kentem-na-hasegawa
+		(BE)	工事 ID 指定 配列取得 API 実装 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/628			1	7	3	2	処理済み・Close	kentem-na-hasegawa
+		(BE)	工事 ID 指定 配列保存 API 実装 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/629			1.5	10.5	4	2	処理済み・Close	kentem-na-hasegawa
+		(BE)	単体作成 API 実装 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/630			1	7		2	破棄	kentem-na-hasegawa
+		(BE)	テーブル・モデル類を追加	https://github.com/ks-kentem/cloud-pm/issues/632			0.5	3.5	1.5	2	処理済み・Close	kentem-na-hasegawa
+		(BE)	工事 ID 指定 配列取得 API 実装 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/633			1	7	4.5	2	処理済み・Close	kentem-na-hasegawa
+		(BE)	工事 ID 指定 配列保存 API 作成	https://github.com/ks-kentem/cloud-pm/issues/634			1.5	10.5	8	2	処理済み・Close	kentem-na-hasegawa
+		(BE)	テーブル・モデル類を追加	https://github.com/ks-kentem/cloud-pm/issues/647			0.5	3.5	1	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 工事 ID 指定 取得 API 項目追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/648			2	14	2	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 工事 ID 指定 保存 API 項目追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/649			2	14	13	4	処理済み・Close	kentem-na-hasegawa
+		(BE)	テーブル・モデル類を追加	https://github.com/ks-kentem/cloud-pm/issues/656			0.5	3.5	0.5	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報取得 API 修正	https://github.com/ks-kentem/cloud-pm/issues/657			1.5	10.5	4	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報保存 API 修正	https://github.com/ks-kentem/cloud-pm/issues/658			1.5	10.5	11.5	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	フィールド追加	https://github.com/ks-kentem/cloud-pm/issues/652			0.5	3.5	0.5	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報取得 API 修正	https://github.com/ks-kentem/cloud-pm/issues/653			0.5	3.5	1.5	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報保存 API 修正	https://github.com/ks-kentem/cloud-pm/issues/654			0.5	3.5	1.5	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	テーブル・モデル類追加	https://github.com/ks-kentem/cloud-pm/issues/1273			0.5	3.5	2	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 工事 ID 指定 取得 API 項目追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1274			1	7	5	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 工事 ID 指定 保存 API 項目追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1275			1.5	10.5	3.5	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	無災害労働時間 管理方法 調査・検討	https://github.com/ks-kentem/cloud-pm/issues/640			1	7	7.5	4	処理済み・Close	kentem-na-hasegawa
+		(BE)	テーブル・モデル類追加	https://github.com/ks-kentem/cloud-pm/issues/641			0.5	3.5	2.5	4	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 工事 ID 指定 取得 API 項目追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/644			2	14	12	4	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 工事 ID 指定 保存 API 項目追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/645			2	14	8.5	4	処理済み・Close	kentem-na-hasegawa
+		(BE)	Excel 帳票テンプレートの調整	https://github.com/ks-kentem/cloud-pm/issues/660			2	14	14	5	処理済み・Close	kentem-ak-iwabuchi
+		(BE)	Excel 出力のモデル・DB からの取得・累計数量集計処理等の実装 - 1	https://github.com/ks-kentem/cloud-pm/issues/661			2	14	26.5	3	処理済み・Close	kentem-ak-iwabuchi
+		(BE)	Excel 出力のモデル・DB からの取得・累計数量集計処理等の実装 - 2	https://github.com/ks-kentem/cloud-pm/issues/1395			1	7	8	5	処理済み・Close	kentem-ak-iwabuchi
+		(BE)	Excel 出力の専用処理調整 - 1	https://github.com/ks-kentem/cloud-pm/issues/662			0.5	3.5	3	3	処理済み・Close	kentem-ak-iwabuchi
+		(BE)	Excel 出力の専用処理調整 - 2	https://github.com/ks-kentem/cloud-pm/issues/1396			1.5	10.5	16.5	5	処理済み・Close	kentem-ak-iwabuchi
+		(BE)	Excel → Html 出力処理実装 (A3 横, A4 縦フォーマット) - 1	https://github.com/ks-kentem/cloud-pm/issues/663			2	14	13.5	4	処理済み・Close	kentem-ak-iwabuchi
+		(BE)	Excel → Html 出力処理実装 (A3 横, A4 縦フォーマット) - 2	https://github.com/ks-kentem/cloud-pm/issues/1397			1	7			未対応	kentem-ak-iwabuchi
+		(BE)	出力レイアウト詳細設定（不確定要素：10％）	https://github.com/ks-kentem/cloud-pm/issues/664			1.5	10.5			未対応	kentem-ak-iwabuchi
+		(BE)	テストケース実装 - 1	https://github.com/ks-kentem/cloud-pm/issues/665			1	7		5	未対応	kentem-ak-iwabuchi
+		(BE)	テストケース実装 - 2	https://github.com/ks-kentem/cloud-pm/issues/1398			2	14			未対応	kentem-ak-iwabuchi
+		(BE)	パフォーマンステスト	https://github.com/ks-kentem/cloud-pm/issues/666			1	7			未対応	kentem-ak-iwabuchi
+		(BE)	一時保ファイル (.xlsx, .pdf) を定期的に削除するAPI	https://github.com/ks-kentem/cloud-pm/issues/668			1	7			破棄	
+		(BE)	テーブル・モデル類追加	https://github.com/ks-kentem/cloud-pm/issues/1403			0.5	3.5		3	処理済み・Close	kentem-na-hasegawa
+		(BE)	共通の初期値登録ロジックを実装 + テストケース修正	https://github.com/ks-kentem/cloud-pm/issues/1404			1	7		3	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報工種 単体追加 モデルにプロパティを追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1277		0	0.5	3.5		5	破棄	kentem-na-hasegawa
+		(BE)	日報工種 単体更新 モデルにプロパティを追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1278		0	0.5	3.5		5	破棄	kentem-na-hasegawa
+		(BE)	日報点検記録表 - 工事内容に紐付く日報点検記録表 (区分 / 項目) を取得 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1279			1.5	10.5	2.5	4	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報点検記録表 (区分 / 項目) PUT + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1280			1.5	10.5	4.5	4	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 打合せ事項 PUT + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1281			1	7	6.5	5	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 打合せ事項 GET + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1334		0	0.5	3.5		5	破棄	kentem-na-hasegawa
+		(BE)	日報 安全巡視記録 複数取得 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1282			1	7	1.5	5	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 安全巡視記録 単体追加 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1283			1	7	0	5	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 安全巡視記録 単体更新 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1332			1	7	1.5	5	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 安全巡視記録 単体削除 + テストケース	https://github.com/ks-kentem/cloud-pm/issues/1333			1	7	0	5	処理済み・Close	kentem-na-hasegawa
+		(BE)	ConstructionDataModel にプロパティを追加 + テストケース修正	https://github.com/ks-kentem/cloud-pm/issues/1406			0.5	3.5	2.5	5	処理済み・Close	kentem-na-hasegawa
+		(BE)	PostByConstructionId (json インポート) 修正	https://github.com/ks-kentem/cloud-pm/issues/1407			0.5	3.5	11.5	5	処理済み・Close	kentem-na-hasegawa
+		(BE)	PostByConstructionIdAsync (パフォーマンス計測用) 修正	https://github.com/ks-kentem/cloud-pm/issues/1408			2	14	10	5	処理済み・Close	kentem-na-hasegawa
+		(FE)	FEバッファ（実装×10%）	https://github.com/ks-kentem/cloud-pm/issues/691			3.5	24.5			処理中	kentem-re-hiramatsu
+		(BE)	BEバッファ（実装×10%）	https://github.com/ks-kentem/cloud-pm/issues/692			5	35			処理中	kentem-na-hasegawa
+		(ﾃｽﾄ)	セキュリティテスト	https://github.com/ks-kentem/cloud-pm/issues/689			1	7			未対応	kentem-na-kawamura
+		(FE)	安全工事日誌（点検項目あり）	https://github.com/ks-kentem/cloud-pm/issues/1634			0.5	3.5	0	5	プルリク中	kentem-ak-iwabuchi
+		(FE)	安全工事日誌（点検項目なし）	https://github.com/ks-kentem/cloud-pm/issues/1635			0.5	3.5	0	5	プルリク中	kentem-ak-iwabuchi
+		(FE)	点検記録表	https://github.com/ks-kentem/cloud-pm/issues/1636			0.5	3.5	0	5	プルリク中	kentem-ak-iwabuchi
+		(FE)	日報詳細	https://github.com/ks-kentem/cloud-pm/issues/1637			0.5	3.5	0	5	プルリク中	kentem-ak-iwabuchi
+		(BE)	スマホ対応 - 日報点検記録表 不具合対応	https://github.com/ks-kentem/cloud-pm/issues/1670		1	1	1	6	5	プルリク中	kentem-na-hasegawa
+		(BE)	日報 - 無災害労働時間 不具合対応	https://github.com/ks-kentem/cloud-pm/issues/1689			0.5	3.5	2	5	処理済み・Close	kentem-na-hasegawa
+		(BE)	日報 - カレンダーアイコン表示対応	https://github.com/ks-kentem/cloud-pm/issues/1709			0.5	3.5	1	5	処理中	kentem-na-hasegawa
+		(BE)	【安全日誌 / マスター】点検記録表のデータ保存（API接続）	https://github.com/ks-kentem/cloud-pm/issues/1725			0.5	3.5	1	4	処理済み・Close	kentem-na-hasegawa
+		(BE)	3イテ 不具合 長谷川	https://github.com/ks-kentem/cloud-pm/issues/1728			2.5	17.5	0	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	3イテ バッファ 長谷川	https://github.com/ks-kentem/cloud-pm/issues/1729			1.5	10.5	0	3	処理済み・Close	kentem-na-hasegawa
+		(BE)	【日報】取得時に指示日がデフォルト値になっている	https://github.com/ks-kentem/cloud-pm/issues/1737			0.5	3.5		5	プルリク中	kentem-na-hasegawa
+		(BE)	【日報点検項目】AM/PM 未チェック時に備考が保存されない	https://github.com/ks-kentem/cloud-pm/issues/1741			0.5	3.5		5	プルリク中	kentem-na-hasegawa
+		(FE)	モデルのプロパティ名変更	https://github.com/ks-kentem/cloud-pm/issues/1538			0.5	3.5	5	3	処理済み・Close	kentem-to-okemoto
+		(FE)	表示設定に項目を追加	https://github.com/ks-kentem/cloud-pm/issues/1549			0.5	3.5	0.5	3	処理済み・Close	kentem-re-hiramatsu
+		(FE)	表示設定の処理を修正	https://github.com/ks-kentem/cloud-pm/issues/1550			0.5	3.5			未対応	
+		(FE)	【日報】打ち合わせ事項の表示(API接続)	https://github.com/ks-kentem/cloud-pm/issues/1556			0.5				未対応	
+		(FE)	【日報】安全指示事項の追加ダイアログ作成	https://github.com/ks-kentem/cloud-pm/issues/1557			0.5				未対応	
+		(FE)	日報詳細のリファクタリング	https://github.com/ks-kentem/cloud-pm/issues/1626				7	40	5	プルリク中	kentem-sh-kitazawa
+		(FE)	ログ対応	https://github.com/ks-kentem/cloud-pm/issues/1638			0.5	3.5		5	未対応	
+		(FE)	【スマホ】点検記録表備考入力	https://github.com/ks-kentem/cloud-pm/issues/1641			0.5	3.5	2	5	処理済み・Close	kentem-ka-hashimoto
+		(FE)	【工事内容】タブのレスポンシブ対応	https://github.com/ks-kentem/cloud-pm/issues/1707			0.5	3.5	2	5	処理中	kentem-to-okemoto
+		(ﾃｽﾄ)	【マスター】設計	https://github.com/ks-kentem/cloud-pm/issues/1642			2	14	6	5	処理済み・Close	kentem-na-kawamura
+		(ﾃｽﾄ)	【マスター】実施	https://github.com/ks-kentem/cloud-pm/issues/1656			0.5	3.5			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【工事内容】設計	https://github.com/ks-kentem/cloud-pm/issues/1643			2	14	5	5	処理中	kentem-na-kawamura
+		(ﾃｽﾄ)	【工事内容】実施	https://github.com/ks-kentem/cloud-pm/issues/1657			0.5	3.5			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【日報】設計	https://github.com/ks-kentem/cloud-pm/issues/1644			2.5	17.5	18	5	処理済み・Close	kentem-na-kawamura
+		(ﾃｽﾄ)	【日報】実施	https://github.com/ks-kentem/cloud-pm/issues/1658			0.5	3.5			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【日報詳細】設計	https://github.com/ks-kentem/cloud-pm/issues/1645			1.5	10.5	8.5	5	処理済み・Close	kentem-na-kawamura
+		(ﾃｽﾄ)	【日報詳細】実施	https://github.com/ks-kentem/cloud-pm/issues/1659			0.5	3.5			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【日報複写】設計	https://github.com/ks-kentem/cloud-pm/issues/1646			2	14	0.5	5	処理済み・Close	kentem-na-kawamura
+		(ﾃｽﾄ)	【日報複写】実施	https://github.com/ks-kentem/cloud-pm/issues/1660			0.5	3.5			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【日報プレビュー】設計	https://github.com/ks-kentem/cloud-pm/issues/1647			2.5	17.5			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【日報プレビュー】実施	https://github.com/ks-kentem/cloud-pm/issues/1665			1	7			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【スマホ】設計	https://github.com/ks-kentem/cloud-pm/issues/1648			1	7			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【スマホ】実施	https://github.com/ks-kentem/cloud-pm/issues/1662			0.5	3.5			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【同時編集】設計	https://github.com/ks-kentem/cloud-pm/issues/1649			2.5	17.5	3.5	5	処理中	kentem-na-kawamura
+		(ﾃｽﾄ)	【同時編集】実施	https://github.com/ks-kentem/cloud-pm/issues/1663			1	7			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	パフォーマンス・負荷テスト	https://github.com/ks-kentem/cloud-pm/issues/1650			1	7	1		処理中	kentem-na-kawamura
+		(ﾃｽﾄ)	目視チェック	https://github.com/ks-kentem/cloud-pm/issues/1651			2	14			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	不具合関連	https://github.com/ks-kentem/cloud-pm/issues/1652			3	21			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	最終スルー	https://github.com/ks-kentem/cloud-pm/issues/1653			1.5	10.5			未対応	kentem-na-kawamura
+		(ﾃｽﾄ)	【バッファ】設計	https://github.com/ks-kentem/cloud-pm/issues/1654			2	14			未対応	kentem-na-kawamura

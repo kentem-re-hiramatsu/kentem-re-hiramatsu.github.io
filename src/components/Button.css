@@ -1,0 +1,90 @@
+/* Button component styles */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: var(--radius-lg);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: all var(--transition-base);
+  font-family: inherit;
+  text-align: center;
+  white-space: nowrap;
+  user-select: none;
+}
+
+/* Variants */
+.btn--primary {
+  background: var(--primary);
+  color: white !important;
+  border: 2px solid var(--primary);
+  font-weight: var(--font-weight-semibold);
+}
+
+.btn--secondary {
+  background: #ffffff;
+  color: var(--text);
+  border: 2px solid var(--neutral-300);
+}
+
+.btn--danger {
+  background: var(--error);
+  color: white;
+  border: 2px solid var(--error);
+  font-weight: var(--font-weight-semibold);
+}
+
+/* Sizes */
+.btn--sm {
+  padding: var(--space-xs) var(--space-md);
+  font-size: var(--font-size-sm);
+  min-height: 32px;
+}
+
+.btn--md {
+  padding: var(--space-md) var(--space-xl);
+  font-size: var(--font-size-base);
+  min-height: 36px;
+  min-width: 120px;
+}
+
+.btn--lg {
+  padding: var(--space-lg) var(--space-2xl);
+  font-size: var(--font-size-lg);
+  min-height: 44px;
+  min-width: 140px;
+}
+
+/* Full width */
+.btn--full-width {
+  width: 100%;
+}
+
+/* Disabled state */
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background: var(--neutral-300) !important;
+  color: var(--neutral-600) !important;
+  border-color: var(--neutral-300) !important;
+  pointer-events: none;
+}
+
+.btn--primary:disabled {
+  background: var(--neutral-300) !important;
+  color: var(--neutral-600) !important;
+  border-color: var(--neutral-300) !important;
+}
+
+.btn--secondary:disabled {
+  background: var(--neutral-200) !important;
+  color: var(--neutral-500) !important;
+  border-color: var(--neutral-300) !important;
+}
+
+.btn--danger:disabled {
+  background: var(--neutral-300) !important;
+  color: var(--neutral-600) !important;
+  border-color: var(--neutral-300) !important;
+}

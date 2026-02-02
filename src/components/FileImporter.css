@@ -1,0 +1,15 @@
+/* FileImporter specific styles */
+.file-importer__label {
+  display: inline-block;
+  margin-right: 8px;
+  font-weight: 500;
+}
+
+.import-message {
+  margin-top: 8px;
+  color: var(--muted);
+}
+
+.file-input {
+  display: inline-block;
+}
